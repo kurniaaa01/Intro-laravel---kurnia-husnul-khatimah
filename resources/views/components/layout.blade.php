@@ -870,8 +870,7 @@
     <!-- Main content -->
     <section class="content">
       <div class="container-fluid">
-        <!-- Small boxes (Stat box) -->
-        {{ $slot }}
+       {{ $slot }}
       </div><!-- /.container-fluid -->
     </section>
     <!-- /.content -->
